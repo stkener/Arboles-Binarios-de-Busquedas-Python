@@ -118,7 +118,7 @@ This repository is preserved as part of my academic portfolio because it demonst
 Clone the repository
 
 ```bash
-git clone https://github.com/stkener/Estructura-de-datos-TP3.git
+git clone https://github.com/stkener/Arboles-Binarios-de-Busquedas-Python.git
 ```
 
 Run the test script provided with the project.
